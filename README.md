@@ -1,6 +1,8 @@
 # PreJava - Version Archive
 //THIS IS A MINECRAFT TEXTURE PACK!// Bringing the classic feel back to current day Minecraft, but with more accuracy this time!
 
+Please click this link here for the actual version library!
+-
 ____________________________
 PREJAVA INFO
 ----------------------------
