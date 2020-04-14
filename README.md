@@ -2,7 +2,7 @@
 //THIS IS A MINECRAFT TEXTURE PACK!// Bringing the classic feel back to current day Minecraft, but with more accuracy this time!
 
 Please click this link here for the actual version library!
-- (Check back tomorrow, friend!)
+- https://archive.org/details/PreJava
 
 This page will hopefully be used to upload final versions of PreJava!
 ____________________________
