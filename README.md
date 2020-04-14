@@ -69,12 +69,14 @@ Textures -----------
 - yellowwinner
 - WeegeetheDoggo
 - napsterdude03
+- ArcticFromClosed
 
 Testing ------------
 - yellowwinner
 - napsterdude03
 - WeegeetheDoggo
 - ignorethisaccount2
+- ArcticFromClosed
 
 Creator - AMinecraft1202
 Tester/Helper - yellowwinner
